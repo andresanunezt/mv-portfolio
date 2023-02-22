@@ -7,13 +7,13 @@ This repository is a collection of the work and learning that I've done througho
 
 ---
 
-## [Module Projects]())
+## [Module Projects](https://github.com/andresanunezt/mv-portfolio/tree/main/Projects/Modules)
 
 This section refers to a few of the projects that I have worked on, individually and collaboratively, throughout the modules during the apprenticeship. 
 
 ---
 
-## [Personal Projects]()
+## [Personal Work](https://github.com/andresanunezt/mv-portfolio/tree/main/Professional%20Work)
 
 This section refers to projectd I've done independently. These projects were typically centered around furthering my skillset by learning a new technology, or reinforcing my knowledge of a technology.
 
