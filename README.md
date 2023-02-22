@@ -15,13 +15,8 @@ This section refers to a few of the projects that I have worked on, individually
 
 ## [Personal Work](https://github.com/andresanunezt/mv-portfolio/tree/main/Professional%20Work)
 
-This section refers to projectd I've done independently. These projects were typically centered around furthering my skillset by learning a new technology, or reinforcing my knowledge of a technology.
-
----
-
-## [Professional Projects]()
-
 In this section, I will discuss my experience working as a frontend developer at Aura.
+
 ---
 
 ## Contact
