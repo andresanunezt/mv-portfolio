@@ -21,7 +21,7 @@ This section refers to a few of the projects that I have worked on, individually
 
 ## [Professional Work](https://github.com/andresanunezt/mv-portfolio/tree/main/Professional-Work)
 
-In this section, I will discuss my experience working as a frontend developer at Aura.
+In this section, I discuss my experience working as a frontend developer at Aura.
 
 ---
 
