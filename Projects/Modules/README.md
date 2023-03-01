@@ -8,4 +8,4 @@ Wind Warehouse group project
 # Module 3
 
 REST API
-[Repository Link](https://github.com/andresanunezt/medication-tracker-frontend)
+[Repository Link](https://github.com/andresanunezt/words-i-should-know)
