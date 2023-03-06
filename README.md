@@ -39,4 +39,4 @@ Andrés Nuñez Tinajero - andresanunez98@gmail.com
 ## Acknowledgments
 I'd like to thank Multiverse for their continued support throughout my apprenticeship. With their support, I have adquired priceless experince that has helped me pave the way into a new career.
 
-A special thanks to my Coach at multiverse, Brad DeFauq, for his support. A of course thank you to all my fellow  apprentices.
+A special thanks to my Coach at multiverse, Brad DeFauw, for his support. A of course thank you to all my fellow  apprentices.
